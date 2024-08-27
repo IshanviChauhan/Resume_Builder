@@ -1,4 +1,0 @@
-# Handle line endings
-* text=auto
-*.sh text eol=lf
-*.bat text eol=crlf
